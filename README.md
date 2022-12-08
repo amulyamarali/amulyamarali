@@ -1,4 +1,3 @@
-# profile_github
 <h1 align="center">Hi 👋, I'm Amulya Marali</h1>
 <h3 align="center">A passionate Machine Learning enthusiast and a MERN stack Developer</h3>
 
