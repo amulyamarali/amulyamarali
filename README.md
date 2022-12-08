@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **projects involving Transfer Learning**
 
-- 🌱 I’m currently learning **TensorFlow and other DL Frameworks**
+- 🌱 I’m currently learning **TensorFlow and other DL Libraries**
 
 - 👯 I’m looking to collaborate on **creating Webapps and ML models**
 
