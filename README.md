@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amulyamarali&show_icons=true&locale=en" alt="amulyamarali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulyamarali&" alt="amulyamarali" /></p>
+
+<p align="left"><img src="https://media.licdn.com/dms/image/D4E22AQHxsckAOFvFkA/feedshare-shrink_2048_1536/0/1710437214031?e=2147483647&v=beta&t=2pbTdMvvyb7O9oH6ZYexVPWyv04hvAd7_vBBjLG90-M" alt="50days" width="180" height="180"> </p>
