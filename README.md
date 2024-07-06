@@ -37,3 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulyamarali&" alt="amulyamarali" /></p>
 
 <p align="left"><img src="https://media.licdn.com/dms/image/D4E22AQHxsckAOFvFkA/feedshare-shrink_2048_1536/0/1710437214031?e=2147483647&v=beta&t=2pbTdMvvyb7O9oH6ZYexVPWyv04hvAd7_vBBjLG90-M" alt="50days" width="180" height="180"> </p>
+<p><img src="https://media.licdn.com/dms/image/D5622AQGteRt1IT34RA/feedshare-shrink_800/0/1719718413212?e=1723075200&v=beta&t=jVCylOXqT_3D1LbGQv17SujJ-jZRjtdklm6mBrjZIVg" alt="june_2024" width="180" height="180"> </p>
+
